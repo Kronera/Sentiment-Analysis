@@ -24,3 +24,4 @@ sqlparse==0.5.0
 threadpoolctl==3.5.0
 tzdata==2024.1
 virtualenv==20.26.2
+nltk==3.5
